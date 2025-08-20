@@ -1,0 +1,36 @@
+# 🐍 Arquivos do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🔒 Arquivos de ambiente virtual
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# 📦 Pacotes e dependências
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# 🛠 Configurações e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ⚙️ Logs e temporários
+*.log
+*.tmp
+*.bak
+
+# 📷 Imagens geradas para teste
+*.png
+
+# ⚡ Arquivos do sistema
+.DS_Store
+Thumbs.db
