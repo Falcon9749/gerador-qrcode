@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 # 🔒 Arquivos de ambiente virtual
+.gitignore
 venv/
 .env/
 .venv/
@@ -37,4 +38,4 @@ Thumbs.db
 
 # executor bat
 *.bat
-*.gitignore
+
