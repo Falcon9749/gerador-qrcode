@@ -1,4 +1,4 @@
-´gitignore
+.gitignore
 venv
 *.bat
 __pycache__
