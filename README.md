@@ -40,3 +40,5 @@ Clone este repositório:
 ```bash
 git clone https://github.com/Falcon9749/gerador-qrcode.git
 cd gerador-qrcode
+
+# Ou pode usar o Arquivo executavel no Windows
